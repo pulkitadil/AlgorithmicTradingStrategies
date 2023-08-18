@@ -1,1 +1,1 @@
-# AlgorithmicTradingStrategies
+# Algorithmic Trading Strategies
